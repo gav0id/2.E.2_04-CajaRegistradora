@@ -23,6 +23,8 @@ public class CajaRegistradora {
     }
 }
 
+// ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 public class Main {
     public static void main(String[] args){
         CajaRegistradora caja1 = new CajaRegistradora();
